@@ -1,7 +1,7 @@
-base64
 pandas
 streamlit
 numpy
 matplotlib
 seaborn
 yfinance
+beautifulsoup4
